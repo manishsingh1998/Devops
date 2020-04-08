@@ -2,7 +2,7 @@ class java1
 {
 	public static void main(String args[])
 	{
-		int a,b;
+		int a=7,b=9;
 		int res;
 
 		System.out.println("Addition of two nos: ");
